@@ -9,7 +9,7 @@ The Blueprint is a full-stack Next.js application designed to bridge the gap bet
 
 Instead of spending days planning database schemas and architectures, users simply input a concept. The system uses **Generative AI (Llama 3)** to instantly compile a professional technical specification document.
 
-** Design Inspiration:**
+ Design Inspiration:
 The project's name and visual identity—specifically the deep electric blue intro sequence and architectural lines—pay homage to **Jay-Z's legendary album _The Blueprint_**. It merges the precision of software architecture with the iconic aesthetics of the legendary album.
 
 ## Key Features
