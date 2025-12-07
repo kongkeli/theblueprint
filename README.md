@@ -1,28 +1,27 @@
-# 🏗️ The Blueprint: AI Software Architect
+#  The Blueprint: AI Software Architect
 
 > **Turn rough ideas into actionable engineering plans in seconds.**
 
-![Project Banner](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge) ![Tech](https://img.shields.io/badge/Built%20With-Next.js_14-black?style=for-the-badge)
 
-## 🚀 Overview
+##  Overview
 
 **The Blueprint** is a full-stack Next.js application designed to bridge the gap between an "app idea" and "technical execution."
 
 Instead of spending days planning database schemas and architectures, users simply input a concept. The system uses **Generative AI (Llama 3)** to instantly compile a professional technical specification document.
 
-**🎨 Design Inspiration:**
+** Design Inspiration:**
 The project's name and visual identity—specifically the deep electric blue intro sequence and architectural lines—pay homage to **Jay-Z's legendary album _The Blueprint_**. It merges the precision of software architecture with the iconic aesthetics of the album that defined a generation.
 
-## ✨ Key Features
+## Key Features
 
-* **⚡ Instant Architecture:** Generates feature lists, tech stacks, and risk assessments instantly.
-* **📊 Live System Diagrams:** Automatically renders **Mermaid.js** flowcharts to visualize system architecture and data flow.
-* **📂 File Structure Generation:** Outputs a complete project file tree (folder structure) ready for scaffolding.
-* **💎 Iconic UI:** A custom "Intro Sequence" featuring the "blue compass" aesthetic inspired by Jay-Z's album art.
-* **📋 Export Ready:** One-click **"Export to Markdown"** feature to easily copy the plan into GitHub READMEs, Notion, or Jira.
-* **🛠️ Robust Error Handling:** Smart parsing logic to clean and repair AI-generated JSON and Mermaid syntax errors.
+* ** Instant Architecture:** Generates feature lists, tech stacks, and risk assessments instantly.
+* ** Live System Diagrams:** Automatically renders **Mermaid.js** flowcharts to visualize system architecture and data flow.
+* ** File Structure Generation:** Outputs a complete project file tree (folder structure) ready for scaffolding.
+* ** Iconic UI:** A custom "Intro Sequence" featuring the "blue compass" aesthetic inspired by Jay-Z's album art.
+* ** Export Ready:** One-click **"Export to Markdown"** feature to easily copy the plan into GitHub READMEs, Notion, or Jira.
+* ** Robust Error Handling:** Smart parsing logic to clean and repair AI-generated JSON and Mermaid syntax errors.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 This project was built using the latest modern web technologies:
 
@@ -34,13 +33,11 @@ This project was built using the latest modern web technologies:
 * **Visualization:** [Mermaid.js](https://mermaid.js.org/) (Diagram rendering)
 * **Icons:** [Lucide React](https://lucide.dev/)
 
-## 📸 Screenshots
+## Screenshots
 
-| Intro Sequence | System Dashboard |
-|:---:|:---:|
-| *[Insert Screenshot of the Blue Circle Intro here]* | *[Insert Screenshot of the Main Dashboard here]* |
+I have add some screenshots.
 
-## 🔧 How It Works
+##  How It Works
 
 1.  **Input:** The user selects a template (SaaS, E-commerce, Crypto) or types a custom idea.
 2.  **Processing:** The app sends a highly engineered prompt to the **Llama 3** model, enforcing a strict JSON schema output.
@@ -50,7 +47,7 @@ This project was built using the latest modern web technologies:
     * The `mermaidDiagram` string is cleaned and rendered into an SVG flowchart.
 4.  **Output:** The user gets a complete blueprint that can be exported.
 
-## 💻 Getting Started
+##  Getting Started
 
 Clone the repository and run the development server:
 
