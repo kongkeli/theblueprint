@@ -5,7 +5,7 @@
 
 ##  Overview
 
-**The Blueprint** is a full-stack Next.js application designed to bridge the gap between an "app idea" and "technical execution."
+The Blueprint is a full-stack Next.js application designed to bridge the gap between an "app idea" and "technical execution."
 
 Instead of spending days planning database schemas and architectures, users simply input a concept. The system uses **Generative AI (Llama 3)** to instantly compile a professional technical specification document.
 
@@ -14,24 +14,24 @@ The project's name and visual identity—specifically the deep electric blue int
 
 ## Key Features
 
-* ** Instant Architecture:** Generates feature lists, tech stacks, and risk assessments instantly.
-* ** Live System Diagrams:** Automatically renders **Mermaid.js** flowcharts to visualize system architecture and data flow.
-* ** File Structure Generation:** Outputs a complete project file tree (folder structure) ready for scaffolding.
-* ** Iconic UI:** A custom "Intro Sequence" featuring the "blue compass" aesthetic inspired by Jay-Z's album art.
-* ** Export Ready:** One-click **"Export to Markdown"** feature to easily copy the plan into GitHub READMEs, Notion, or Jira.
-* ** Robust Error Handling:** Smart parsing logic to clean and repair AI-generated JSON and Mermaid syntax errors.
+* Instant Architecture: Generates feature lists, tech stacks, and risk assessments instantly.
+* Live System Diagrams: Automatically renders **Mermaid.js** flowcharts to visualize system architecture and data flow.
+* File Structure Generation: Outputs a complete project file tree (folder structure) ready for scaffolding.
+* Iconic UI: A custom "Intro Sequence" featuring the "blue compass" aesthetic inspired by Jay-Z's album art.
+* Export Ready:One-click **"Export to Markdown"** feature to easily copy the plan into GitHub READMEs, Notion, or Jira.
+* Robust Error Handling:Smart parsing logic to clean and repair AI-generated JSON and Mermaid syntax errors.
 
 ##  Tech Stack
 
 This project was built using the latest modern web technologies:
 
-* **Framework:** [Next.js 14](https://nextjs.org/) (App Router, Server Actions)
-* **Language:** [TypeScript](https://www.typescriptlang.org/) (Strict type safety)
-* **AI Model:** [Meta Llama 3](https://llama.meta.com/) (via Hugging Face Inference API)
-* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-* **Animations:** [Framer Motion](https://www.framer.com/motion/) (Complex transitions & intro)
-* **Visualization:** [Mermaid.js](https://mermaid.js.org/) (Diagram rendering)
-* **Icons:** [Lucide React](https://lucide.dev/)
+* Framework: [Next.js 14](https://nextjs.org/) (App Router, Server Actions)
+* Language: [TypeScript](https://www.typescriptlang.org/) (Strict type safety)
+* AI Model: [Meta Llama 3](https://llama.meta.com/) (via Hugging Face Inference API)
+* Styling: [Tailwind CSS](https://tailwindcss.com/)
+* Animations: [Framer Motion](https://www.framer.com/motion/) (Complex transitions & intro)
+* Visualization: [Mermaid.js](https://mermaid.js.org/) (Diagram rendering)
+* Icons: [Lucide React](https://lucide.dev/)
 
 ## Screenshots
 
