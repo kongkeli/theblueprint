@@ -52,6 +52,6 @@ I have add some screenshots.
 Clone the repository and run the development server:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/kongkeli/theblueprint.git](https://github.com/kongkeli/theblueprint.git)
+cd theblueprint
 npm install
